@@ -1,0 +1,23 @@
+S-market:kalapuikot:1.20
+Tapsan tori:kahvi:3.59
+S-market:maito:0.81
+Lidl:makaroni:0.19
+Lidl:maito:0.70
+S-market:perunapussi:2.49
+Tapsan tori:kalapuikot:1.10
+S-market:kahvi:3.27
+Tapsan tori:maito:0.82
+Tapsan tori:makaroni:0.22
+S-market:makaroni:0.24
+Tapsan tori:puurohiutaleet:2.12
+Tapsan tori:perunapussi:2.00
+Lidl:kananmunat:1.00
+Lidl:kahvi:2.99
+Lidl:perunapussi:2.11
+S-market:tonnikala:1.29
+Lidl:tonnikala:1.29
+S-market:kananmunat:1.14
+S-market:piimä:0.70
+Tapsan tori:viinirypäleet:2.90
+Lidl:piimä:0.95
+Tapsan tori:kananmunat:1.59
